@@ -157,7 +157,7 @@
             android:layout_marginTop="8dp"
             android:background="@color/figmaBlue"
             app:layout_constraintEnd_toEndOf="parent"
-                                                       app:layout_constraintTop_toBottomOf="@id/textView12" />
+            app:layout_constraintTop_toBottomOf="@id/textView12" />
 
     <TextView
         android:id="@+id/textView11"
